@@ -2,3 +2,4 @@
 - You can reach me @ igalfeiginwork@gmail.com
 ----------------------------------------------
 - Python Developer , Currently Learning C++.
+- Trying to commit once a day.
