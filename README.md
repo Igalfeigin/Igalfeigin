@@ -1,2 +1,4 @@
-- Currently working on a few projects
-- you can reach me here --> igalfeiginwork@gmail.com
+- Currently Working On an Instagram Bot And On a Youtube Music App.
+- You can reach me @ igalfeiginwork@gmail.com
+----------------------------------------------
+- Python Developer , Currently Learning C++.
