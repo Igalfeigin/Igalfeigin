@@ -1,5 +1,4 @@
-- Currently Working On an Instagram Bot And On a Youtube Music App.
 - You can reach me @ igalfeiginwork@gmail.com
 ----------------------------------------------
 - Python Developer , Currently Learning C++.
-- you can find here a bunch of weird coding stuff... enjoy!
+
